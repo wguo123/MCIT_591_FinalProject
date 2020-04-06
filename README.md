@@ -11,31 +11,31 @@ Initial Project proposal is [here](https://docs.google.com/document/d/1Vvbymm1ys
 In this project we will build a system for a movie theater. This system serves both customers and theater admins. General customers can browse available movies, select desired dates/seats and make purchase. Theater admins can add new movies, update existing movie's schedules, and run data analysis on sales data. The front end will be implemented in JavaFX and backend data will be stored in SQLite database.
 
 ## Major classes
-![](media\crc_cards\movie-user-seat.png)
+![](./media/crc_cards/movie-user-seat.png)
 
-![](media\crc_cards\movie.png)
+![](./media/crc_cards/movie.png)
 
-![](media\crc_cards\add-moviecontroller.png)
+![](./media/crc_cards/add-moviecontroller.png)
 
-![](media\crc_cards\profile-controller.png)
+![](./media/crc_cards/profile-controller.png)
 
-![](media\crc_cards\show-bookshow-booking-history.png)
+![](./media/crc_cards/show-bookshow-booking-history.png)
 
 
 ## UI mockups
 
 ### User register and log in
-
-![](media\user_register_log_in.png)
+![](./media/user_register_log_in.png)
 
 ### User browse movies and make selection
-![](media\browse_select_order.png)
+
+![](./media/browse_select_order.png)
 
 ### Admin updates movie catalog (adding new movies, change existing ones)
-![](media\update_movies.png)
+![](./media/update_movies.png)
 
 ### Admin checks users and movie booking status
-![](media\check_users_and_booking_status.png)
+![](./media/check_users_and_booking_status.png)
 
 ## Database design
 ### Tables
