@@ -1,10 +1,11 @@
 # MCIT 591 Final Project Design: TicketMaster
 This is the repository for MCIT 591 course project.
+
 Team 68: Wei Guo, Natalie Diao
 
 April, 2020
 
-Initial Project proposal is [here](https://docs.google.com/document/d/1Vvbymm1ysKuXr427TXe41Lkge4SAd6OOTfM8U_SosO8/edit#): 
+Initial Project proposal is [here](https://docs.google.com/document/d/1Vvbymm1ysKuXr427TXe41Lkge4SAd6OOTfM8U_SosO8/edit#).
 
 
 ## Summary
@@ -65,8 +66,3 @@ In this project we will build a system for a movie theater. This system serves b
 - 4/20: working version done
 - 4/23: final version done
 - 4/25: prepare demo
-
-
-
-
-
